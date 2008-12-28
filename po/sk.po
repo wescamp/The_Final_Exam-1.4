@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2008-12-26 14:40+0100\n"
+"POT-Creation-Date: 2008-12-28 01:58+0100\n"
 "PO-Revision-Date: 2008-12-26 20:28+0100\n"
 "Last-Translator: Stanislav Hoferek <shoferek@gmail.com>\n"
 "Language-Team: none\n"
@@ -12,22 +12,22 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 
 #. [campaign]: id=The Final Exam
-#: The_Final_Exam/_main.cfg:10
+#: The_Final_Exam/_main.cfg:11
 msgid "The Final Exam"
 msgstr "Posledná skúška"
 
 #. [campaign]: id=The Final Exam
-#: The_Final_Exam/_main.cfg:12
+#: The_Final_Exam/_main.cfg:13
 msgid "<192,0,0>The Final Exam"
 msgstr "<192,0,0>Posledná skúška"
 
 #. [campaign]: id=The Final Exam
-#: The_Final_Exam/_main.cfg:13
+#: The_Final_Exam/_main.cfg:14
 msgid "TFE"
 msgstr "PS"
 
 #. [campaign]: id=The Final Exam
-#: The_Final_Exam/_main.cfg:23
+#: The_Final_Exam/_main.cfg:24
 msgid ""
 "A young mage Erika must find a magic book to become a true mage.\n"
 "\n"
@@ -48,47 +48,48 @@ msgstr ""
 "- ľahko prekladateľná"
 
 #. [campaign]: id=The Final Exam
-#: The_Final_Exam/_main.cfg:26
-msgid "Appertice"
+#: The_Final_Exam/_main.cfg:27
+#, fuzzy
+msgid "Apprentice"
 msgstr "Učnica"
 
 #. [campaign]: id=The Final Exam
-#: The_Final_Exam/_main.cfg:26
+#: The_Final_Exam/_main.cfg:27
 msgid "(Very easy)"
 msgstr "Veľmi ľahké"
 
 #. [campaign]: id=The Final Exam
-#: The_Final_Exam/_main.cfg:28
+#: The_Final_Exam/_main.cfg:29
 msgid "Mage"
 msgstr "Mágyňa"
 
 #. [campaign]: id=The Final Exam
-#: The_Final_Exam/_main.cfg:28
+#: The_Final_Exam/_main.cfg:29
 msgid "(Easy)"
 msgstr "Ľahké"
 
 #. [about]
-#: The_Final_Exam/_main.cfg:34
+#: The_Final_Exam/_main.cfg:35
 msgid "Campaign Design"
 msgstr "Návrh kampane"
 
 #. [about]
-#: The_Final_Exam/_main.cfg:40
+#: The_Final_Exam/_main.cfg:41
 msgid "Text corrections"
 msgstr "Korektúra textu"
 
 #. [entry]
-#: The_Final_Exam/_main.cfg:42
+#: The_Final_Exam/_main.cfg:43
 msgid "Anezka Bubenickova"
 msgstr "Anežka Bubeníčková"
 
 #. [about]
-#: The_Final_Exam/_main.cfg:46
+#: The_Final_Exam/_main.cfg:47
 msgid "Also many thanks to:"
 msgstr "Taktiež veľké dík pre:"
 
 #. [entry]
-#: The_Final_Exam/_main.cfg:48
+#: The_Final_Exam/_main.cfg:49
 msgid ""
 "Viliam Bur, Db0, Elvish Pillager, Fendrin and zookeeper (yes, not "
 "capitalized)"
@@ -96,9 +97,10 @@ msgstr ""
 "Viliam Búr, Db0, Elvish Pillager, Fendrin a zookeeper (áno, s malým "
 "začiatočným písmenom)"
 
-#. [scenario]: id=1) Village
+#. [scenario]: id=1. Village
 #: The_Final_Exam/scenarios/1_Village.cfg:5
-msgid "1) Village"
+#, fuzzy
+msgid "1. Village"
 msgstr "1) Dedina"
 
 #. [part]
@@ -112,9 +114,10 @@ msgstr ""
 
 #. [part]
 #: The_Final_Exam/scenarios/1_Village.cfg:21
+#, fuzzy
 msgid ""
-"But she must do her final exam - find a magic book somewhere in the cave in "
-"the northeast."
+"But she must complete her final exam - find a magic book somewhere in the "
+"cave in the northeast."
 msgstr ""
 "najskôr ale musí splniť jej poslednú skúšku - nájsť magickú knihu niekde v "
 "jaskyni na severovýchode."
@@ -170,7 +173,9 @@ msgstr ""
 
 #. [message]: description=Nerek
 #: The_Final_Exam/scenarios/1_Village.cfg:104
-msgid "Hey boys, some silly girl with badly trained troops comes. Smash them!"
+#, fuzzy
+msgid ""
+"Hey boys, here comes some silly girl with badly trained troops. Smash them!"
 msgstr ""
 "Hej banda, prišla nejaká hlúpa slečinka s pár netrénovanými pešiakmi. "
 "Rozdrvme ich!"
@@ -191,15 +196,17 @@ msgstr "Cesta do jaskyne je teraz voľná."
 msgid "Oh, no! I hope this blood is not mine!"
 msgstr "Ach nie! Dúfam, že tá krv nie je moja!"
 
-#. [scenario]: id=2) Cave
+#. [scenario]: id=2. Cave
 #: The_Final_Exam/scenarios/2_Cave.cfg:5
-msgid "2) Cave"
+#, fuzzy
+msgid "2. Cave"
 msgstr "2) Jaskyňa"
 
 #. [part]
 #: The_Final_Exam/scenarios/2_Cave.cfg:22
+#, fuzzy
 msgid ""
-"Orcs in front of the entrance has been killed. Now Erika must find the book."
+"Orcs in front of the entrance has been killed. Erika must find the book now."
 msgstr "Orkovia pred vstupom boli zabití. Erika teraz musí nájsť knihu."
 
 #. [side]: type=Troll, description=Nsug
@@ -209,14 +216,16 @@ msgstr "Nsug"
 
 #. [objective]: condition=win
 #: The_Final_Exam/scenarios/2_Cave.cfg:90
-msgid "Find a book"
+#, fuzzy
+msgid "Find the book"
 msgstr "Nájdi knihu"
 
 #. [message]: speaker=Erika
 #: The_Final_Exam/scenarios/2_Cave.cfg:108
+#, fuzzy
 msgid ""
-"I do not like this place. It is too silent and too dark. But I am sure that "
-"I will find the book. Careful warriors, I smell trolls!"
+"I don't like this place. It's too silent and too dark. But I'm sure that I "
+"will find the book. Careful, warriors, I smell trolls!"
 msgstr ""
 "Nepáči sa mi toto miesto. Je to tu príliš tiché a príliš temné. Ale som si "
 "istá, že sa mi podarí nájsť knihu. Opatrne bojovníci, cítim tu trolov!"
