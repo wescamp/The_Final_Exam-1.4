@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2008-12-28 01:58+0100\n"
+"POT-Creation-Date: 2008-12-30 11:57+0100\n"
 "PO-Revision-Date: 2008-12-28 23:01+0100\n"
 "Last-Translator: Vladimír Slávik <slavik.vladimir@seznam.cz>\n"
 "Language-Team: Czech <wesnoth-cs-l@nospam.buchtovi.cz>\n"
@@ -22,14 +22,14 @@ msgstr ""
 "X-Poedit-Country: CZECH REPUBLIC\n"
 
 #. [campaign]: id=The Final Exam
-#: The_Final_Exam/_main.cfg:11
+#: The_Final_Exam/_main.cfg:11 The_Final_Exam/_main.cfg:13
 msgid "The Final Exam"
 msgstr "Závěrečná zkouška"
 
 #. [campaign]: id=The Final Exam
 #: The_Final_Exam/_main.cfg:13
-msgid "<192,0,0>The Final Exam"
-msgstr "<192,0,0>Závěrečná zkouška"
+msgid "<192,0,0>"
+msgstr ""
 
 #. [campaign]: id=The Final Exam
 #: The_Final_Exam/_main.cfg:14
@@ -133,20 +133,20 @@ msgstr ""
 "severovýchodě kouzelnou knihu."
 
 #. [side]: type=Mage, description=Erika
-#: The_Final_Exam/scenarios/2_Cave.cfg:34
+#: The_Final_Exam/scenarios/2_Cave.cfg:33
 #: The_Final_Exam/scenarios/1_Village.cfg:33
 msgid "teamname^Erika"
 msgstr "Erika"
 
 #. [side]: type=Mage, description=Erika
-#: The_Final_Exam/scenarios/2_Cave.cfg:41
+#: The_Final_Exam/scenarios/2_Cave.cfg:40
 #: The_Final_Exam/scenarios/1_Village.cfg:40
 msgid "Erika"
 msgstr "Erika"
 
 #. [side]: type=Troll, description=Nsug
 #. [side]: type=Orcish Warrior, description=Nerek
-#: The_Final_Exam/scenarios/2_Cave.cfg:60
+#: The_Final_Exam/scenarios/2_Cave.cfg:59
 #: The_Final_Exam/scenarios/1_Village.cfg:57
 msgid "teamname^Enemy"
 msgstr "Nepřítel"
@@ -162,13 +162,13 @@ msgid "Defeat Nerek"
 msgstr "Poraz Nereka"
 
 #. [objective]: condition=lose
-#: The_Final_Exam/scenarios/2_Cave.cfg:94
+#: The_Final_Exam/scenarios/2_Cave.cfg:93
 #: The_Final_Exam/scenarios/1_Village.cfg:86
 msgid "Death of Erika"
 msgstr "Erika zemře"
 
 #. [objective]: condition=lose
-#: The_Final_Exam/scenarios/2_Cave.cfg:98
+#: The_Final_Exam/scenarios/2_Cave.cfg:97
 #: The_Final_Exam/scenarios/1_Village.cfg:90
 msgid "Turns run out"
 msgstr "Vyprší kola"
@@ -199,7 +199,7 @@ msgid "Way into caves is clear now."
 msgstr "Cesta do jeskyně je volná."
 
 #. [message]: speaker=unit
-#: The_Final_Exam/scenarios/2_Cave.cfg:157
+#: The_Final_Exam/scenarios/2_Cave.cfg:160
 #: The_Final_Exam/scenarios/1_Village.cfg:130
 msgid "Oh, no! I hope this blood is not mine!"
 msgstr "Ó, ne! Doufám, že ta krev není moje!"
@@ -211,25 +211,25 @@ msgid "2. Cave"
 msgstr "2) Jeskyně"
 
 #. [part]
-#: The_Final_Exam/scenarios/2_Cave.cfg:22
+#: The_Final_Exam/scenarios/2_Cave.cfg:21
 #, fuzzy
 msgid ""
 "Orcs in front of the entrance has been killed. Erika must find the book now."
 msgstr "Skřeti před vchodem byli pobiti. Teď musí Erika nalézt knihu."
 
 #. [side]: type=Troll, description=Nsug
-#: The_Final_Exam/scenarios/2_Cave.cfg:72
+#: The_Final_Exam/scenarios/2_Cave.cfg:71
 msgid "Nsug"
 msgstr "Nsug"
 
 #. [objective]: condition=win
-#: The_Final_Exam/scenarios/2_Cave.cfg:90
+#: The_Final_Exam/scenarios/2_Cave.cfg:89
 #, fuzzy
 msgid "Find the book"
 msgstr "Najdi knihu"
 
 #. [message]: speaker=Erika
-#: The_Final_Exam/scenarios/2_Cave.cfg:108
+#: The_Final_Exam/scenarios/2_Cave.cfg:107
 #, fuzzy
 msgid ""
 "I don't like this place. It's too silent and too dark. But I'm sure that I "
@@ -239,11 +239,14 @@ msgstr ""
 "Opatně, válečníci, smrdí to tu po trollech!"
 
 #. [message]: speaker=unit
-#: The_Final_Exam/scenarios/2_Cave.cfg:134
+#: The_Final_Exam/scenarios/2_Cave.cfg:133
 msgid "We found 25 gold coins."
 msgstr "Našli jsme 25 zlatých mincí."
 
 #. [message]: description=Erika
-#: The_Final_Exam/scenarios/2_Cave.cfg:146
+#: The_Final_Exam/scenarios/2_Cave.cfg:149
 msgid "I found the book. My quest here is over."
 msgstr "Našla jsem tu knihu. Moje mise je u konce."
+
+#~ msgid "<192,0,0>The Final Exam"
+#~ msgstr "<192,0,0>Závěrečná zkouška"
