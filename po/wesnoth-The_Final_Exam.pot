@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2008-12-30 11:57+0100\n"
+"POT-Creation-Date: 2009-01-01 21:31+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,11 +13,6 @@ msgstr ""
 #. [campaign]: id=The Final Exam
 #: ./The_Final_Exam/_main.cfg:11 ./The_Final_Exam/_main.cfg:13
 msgid "The Final Exam"
-msgstr ""
-
-#. [campaign]: id=The Final Exam
-#: ./The_Final_Exam/_main.cfg:13
-msgid "<192,0,0>"
 msgstr ""
 
 #. [campaign]: id=The Final Exam

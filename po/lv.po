@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2008-12-30 11:57+0100\n"
+"POT-Creation-Date: 2009-01-01 21:31+0100\n"
 "PO-Revision-Date: 2008-12-26 14:40+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -15,11 +15,6 @@ msgstr ""
 #. [campaign]: id=The Final Exam
 #: The_Final_Exam/_main.cfg:11 The_Final_Exam/_main.cfg:13
 msgid "The Final Exam"
-msgstr ""
-
-#. [campaign]: id=The Final Exam
-#: The_Final_Exam/_main.cfg:13
-msgid "<192,0,0>"
 msgstr ""
 
 #. [campaign]: id=The Final Exam
