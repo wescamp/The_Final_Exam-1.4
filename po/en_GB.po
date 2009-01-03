@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2009-01-01 21:31+0100\n"
+"POT-Creation-Date: 2009-01-03 03:16+0100\n"
 "PO-Revision-Date: 2008-12-26 14:40+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -82,90 +82,95 @@ msgid ""
 msgstr ""
 
 #. [scenario]: id=1. Village
-#: The_Final_Exam/scenarios/1_Village.cfg:5
+#: The_Final_Exam/scenarios/1_Village.cfg:11
 msgid "1. Village"
 msgstr ""
 
 #. [part]
-#: The_Final_Exam/scenarios/1_Village.cfg:18
+#: The_Final_Exam/scenarios/1_Village.cfg:31
 msgid ""
 "Young mage Erika has just finished her studies. One day, She will be a "
 "powerful mage."
 msgstr ""
 
 #. [part]
-#: The_Final_Exam/scenarios/1_Village.cfg:21
+#: The_Final_Exam/scenarios/1_Village.cfg:34
 msgid ""
 "But she must complete her final exam - find a magic book somewhere in the "
 "cave in the northeast."
 msgstr ""
 
 #. [side]: type=Mage, description=Erika
-#: The_Final_Exam/scenarios/2_Cave.cfg:33
-#: The_Final_Exam/scenarios/1_Village.cfg:33
+#: The_Final_Exam/scenarios/2_Cave.cfg:38
+#: The_Final_Exam/scenarios/1_Village.cfg:47
 msgid "teamname^Erika"
 msgstr ""
 
 #. [side]: type=Mage, description=Erika
-#: The_Final_Exam/scenarios/2_Cave.cfg:40
-#: The_Final_Exam/scenarios/1_Village.cfg:40
+#: The_Final_Exam/scenarios/2_Cave.cfg:45
+#: The_Final_Exam/scenarios/1_Village.cfg:56
 msgid "Erika"
 msgstr ""
 
 #. [side]: type=Troll, description=Nsug
 #. [side]: type=Orcish Warrior, description=Nerek
-#: The_Final_Exam/scenarios/2_Cave.cfg:59
-#: The_Final_Exam/scenarios/1_Village.cfg:57
+#: The_Final_Exam/scenarios/2_Cave.cfg:66
+#: The_Final_Exam/scenarios/1_Village.cfg:84
 msgid "teamname^Enemy"
 msgstr ""
 
 #. [side]: type=Orcish Warrior, description=Nerek
-#: The_Final_Exam/scenarios/1_Village.cfg:69
+#: The_Final_Exam/scenarios/1_Village.cfg:98
 msgid "Nerek"
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Final_Exam/scenarios/1_Village.cfg:82
+#: The_Final_Exam/scenarios/1_Village.cfg:111
 msgid "Defeat Nerek"
 msgstr ""
 
 #. [objective]: condition=lose
-#: The_Final_Exam/scenarios/2_Cave.cfg:93
-#: The_Final_Exam/scenarios/1_Village.cfg:86
+#: The_Final_Exam/scenarios/2_Cave.cfg:102
+#: The_Final_Exam/scenarios/1_Village.cfg:115
 msgid "Death of Erika"
 msgstr ""
 
 #. [objective]: condition=lose
-#: The_Final_Exam/scenarios/2_Cave.cfg:97
-#: The_Final_Exam/scenarios/1_Village.cfg:90
+#: The_Final_Exam/scenarios/2_Cave.cfg:106
+#: The_Final_Exam/scenarios/1_Village.cfg:119
 msgid "Turns run out"
 msgstr ""
 
+#. [unit]: type=Spearman, description=Johnny
+#: The_Final_Exam/scenarios/1_Village.cfg:145
+msgid "Johnny"
+msgstr ""
+
 #. [message]: speaker=Erika
-#: The_Final_Exam/scenarios/1_Village.cfg:99
+#: The_Final_Exam/scenarios/1_Village.cfg:157
 msgid ""
 "To make my final exam, I have to find a book. It is somewhere in that cave."
 msgstr ""
 
 #. [message]: description=Nerek
-#: The_Final_Exam/scenarios/1_Village.cfg:104
+#: The_Final_Exam/scenarios/1_Village.cfg:162
 msgid ""
 "Hey boys, here comes some silly girl with badly trained troops. Smash them!"
 msgstr ""
 
-#. [message]: speaker=Erika
-#: The_Final_Exam/scenarios/1_Village.cfg:109
+#. [message]: speaker=Johnny
+#: The_Final_Exam/scenarios/1_Village.cfg:167
 msgid "You will be smashed, orc."
 msgstr ""
 
 #. [message]: description=Erika
-#: The_Final_Exam/scenarios/1_Village.cfg:119
+#: The_Final_Exam/scenarios/1_Village.cfg:178
 msgid "Way into caves is clear now."
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Final_Exam/scenarios/2_Cave.cfg:160
-#: The_Final_Exam/scenarios/1_Village.cfg:130
+#: The_Final_Exam/scenarios/2_Cave.cfg:198
+#: The_Final_Exam/scenarios/1_Village.cfg:191
 msgid "Oh, no! I hope this blood is not mine!"
 msgstr ""
 
@@ -175,34 +180,39 @@ msgid "2. Cave"
 msgstr ""
 
 #. [part]
-#: The_Final_Exam/scenarios/2_Cave.cfg:21
+#: The_Final_Exam/scenarios/2_Cave.cfg:26
 msgid ""
 "Orcs in front of the entrance has been killed. Erika must find the book now."
 msgstr ""
 
 #. [side]: type=Troll, description=Nsug
-#: The_Final_Exam/scenarios/2_Cave.cfg:71
+#: The_Final_Exam/scenarios/2_Cave.cfg:78
 msgid "Nsug"
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Final_Exam/scenarios/2_Cave.cfg:89
+#: The_Final_Exam/scenarios/2_Cave.cfg:98
 msgid "Find the book"
 msgstr ""
 
 #. [message]: speaker=Erika
-#: The_Final_Exam/scenarios/2_Cave.cfg:107
+#: The_Final_Exam/scenarios/2_Cave.cfg:124
 msgid ""
 "I don't like this place. It's too silent and too dark. But I'm sure that I "
 "will find the book. Careful, warriors, I smell trolls!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Final_Exam/scenarios/2_Cave.cfg:133
+#: The_Final_Exam/scenarios/2_Cave.cfg:139
+msgid "I can't take this book. Only Erika can take it."
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_Final_Exam/scenarios/2_Cave.cfg:171
 msgid "We found 25 gold coins."
 msgstr ""
 
 #. [message]: description=Erika
-#: The_Final_Exam/scenarios/2_Cave.cfg:149
+#: The_Final_Exam/scenarios/2_Cave.cfg:187
 msgid "I found the book. My quest here is over."
 msgstr ""
