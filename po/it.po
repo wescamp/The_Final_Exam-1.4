@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2009-01-03 03:16+0100\n"
-"PO-Revision-Date: 2008-12-26 14:40+0100\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2008-12-31 19:00+0300\n"
+"Last-Translator: Antonio 'Antro' Rosella <arosella@yahoo.com>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -14,12 +14,12 @@ msgstr ""
 #. [campaign]: id=The Final Exam
 #: The_Final_Exam/_main.cfg:11 The_Final_Exam/_main.cfg:13
 msgid "The Final Exam"
-msgstr ""
+msgstr "L'Esame Finale"
 
 #. [campaign]: id=The Final Exam
 #: The_Final_Exam/_main.cfg:14
 msgid "TFE"
-msgstr ""
+msgstr "LEF"
 
 #. [campaign]: id=The Final Exam
 #: The_Final_Exam/_main.cfg:24
@@ -33,46 +33,55 @@ msgid ""
 "- easy to modify\n"
 "- easy to translate"
 msgstr ""
+"Erika, una giovane maga, deve trovare un libro incantato per diventare un "
+"mago a tutti gli effetti.\n"
+"\n"
+"(2 scenari, per principianti)\n"
+"\n"
+"Questa campagna è stata concepita per essere:\n"
+"- facile da giocare\n"
+"- facile da modificare\n"
+"- facile da tradurre"
 
 #. [campaign]: id=The Final Exam
 #: The_Final_Exam/_main.cfg:27
 msgid "Apprentice"
-msgstr ""
+msgstr "Apprentista"
 
 #. [campaign]: id=The Final Exam
 #: The_Final_Exam/_main.cfg:27
 msgid "(Very easy)"
-msgstr ""
+msgstr "(Facilissimo)"
 
 #. [campaign]: id=The Final Exam
 #: The_Final_Exam/_main.cfg:29
 msgid "Mage"
-msgstr ""
+msgstr "Mago"
 
 #. [campaign]: id=The Final Exam
 #: The_Final_Exam/_main.cfg:29
 msgid "(Easy)"
-msgstr ""
+msgstr "(Facile)"
 
 #. [about]
 #: The_Final_Exam/_main.cfg:35
 msgid "Campaign Design"
-msgstr ""
+msgstr "Progetto della Campagna"
 
 #. [about]
 #: The_Final_Exam/_main.cfg:41
 msgid "Text corrections"
-msgstr ""
+msgstr "Correzioni"
 
 #. [entry]
 #: The_Final_Exam/_main.cfg:43
 msgid "Anezka Bubenickova"
-msgstr ""
+msgstr "Anezka Bubenickova"
 
 #. [about]
 #: The_Final_Exam/_main.cfg:47
 msgid "Also many thanks to:"
-msgstr ""
+msgstr "Ringraziamenti anche a:"
 
 #. [entry]
 #: The_Final_Exam/_main.cfg:49
@@ -80,11 +89,13 @@ msgid ""
 "Viliam Bur, Db0, Elvish Pillager, Fendrin and zookeeper (yes, not "
 "capitalized)"
 msgstr ""
+"Viliam Bur, Db0, Elvish Pillager, Fendrin e zookeeper (si, senza iniziale "
+"maiuscola)"
 
 #. [scenario]: id=1. Village
 #: The_Final_Exam/scenarios/1_Village.cfg:11
 msgid "1. Village"
-msgstr ""
+msgstr "1. Villaggio"
 
 #. [part]
 #: The_Final_Exam/scenarios/1_Village.cfg:31
@@ -92,6 +103,8 @@ msgid ""
 "Young mage Erika has just finished her studies. One day, She will be a "
 "powerful mage."
 msgstr ""
+"La giovane maga Erika ha appena finito i suoi studi. Un giorno diventerà "
+"probabilmente una potentissima maga."
 
 #. [part]
 #: The_Final_Exam/scenarios/1_Village.cfg:34
@@ -99,47 +112,49 @@ msgid ""
 "But she must complete her final exam - find a magic book somewhere in the "
 "cave in the northeast."
 msgstr ""
+"Prima però deve completare il suo esame finale - deve trovare un libro "
+"magico nascosto in un afratto delle caverne situate a nordest."
 
 #. [side]: type=Mage, description=Erika
 #: The_Final_Exam/scenarios/2_Cave.cfg:38
 #: The_Final_Exam/scenarios/1_Village.cfg:47
 msgid "teamname^Erika"
-msgstr ""
+msgstr "teamname^Erika"
 
 #. [side]: type=Mage, description=Erika
 #: The_Final_Exam/scenarios/2_Cave.cfg:45
 #: The_Final_Exam/scenarios/1_Village.cfg:56
 msgid "Erika"
-msgstr ""
+msgstr "Erika"
 
 #. [side]: type=Troll, description=Nsug
 #. [side]: type=Orcish Warrior, description=Nerek
 #: The_Final_Exam/scenarios/2_Cave.cfg:66
 #: The_Final_Exam/scenarios/1_Village.cfg:84
 msgid "teamname^Enemy"
-msgstr ""
+msgstr "teamname^Nemici"
 
 #. [side]: type=Orcish Warrior, description=Nerek
 #: The_Final_Exam/scenarios/1_Village.cfg:98
 msgid "Nerek"
-msgstr ""
+msgstr "Nerek"
 
 #. [objective]: condition=win
 #: The_Final_Exam/scenarios/1_Village.cfg:111
 msgid "Defeat Nerek"
-msgstr ""
+msgstr "Sconfiggi Nerek"
 
 #. [objective]: condition=lose
 #: The_Final_Exam/scenarios/2_Cave.cfg:102
 #: The_Final_Exam/scenarios/1_Village.cfg:115
 msgid "Death of Erika"
-msgstr ""
+msgstr "Morte di Erika"
 
 #. [objective]: condition=lose
 #: The_Final_Exam/scenarios/2_Cave.cfg:106
 #: The_Final_Exam/scenarios/1_Village.cfg:119
 msgid "Turns run out"
-msgstr ""
+msgstr "Fine dei turni"
 
 #. [unit]: type=Spearman, description=Johnny
 #: The_Final_Exam/scenarios/1_Village.cfg:145
@@ -151,49 +166,54 @@ msgstr ""
 msgid ""
 "To make my final exam, I have to find a book. It is somewhere in that cave."
 msgstr ""
+"Per completare il mio esame finale, devo trovare un libro. È nascosto da "
+"qualche parte in questa caverna."
 
 #. [message]: description=Nerek
 #: The_Final_Exam/scenarios/1_Village.cfg:162
 msgid ""
 "Hey boys, here comes some silly girl with badly trained troops. Smash them!"
 msgstr ""
+"Hey ragazzi, ecco che arriva una svampitella accompagnata da dei pivellini. "
+"Diamogli una lezione!"
 
 #. [message]: speaker=Johnny
 #: The_Final_Exam/scenarios/1_Village.cfg:167
 msgid "You will be smashed, orc."
-msgstr ""
+msgstr "Orco, sarai spazzato via."
 
 #. [message]: description=Erika
 #: The_Final_Exam/scenarios/1_Village.cfg:178
 msgid "Way into caves is clear now."
-msgstr ""
+msgstr "La strada nelle caverne ora è libera."
 
 #. [message]: speaker=unit
 #: The_Final_Exam/scenarios/2_Cave.cfg:198
 #: The_Final_Exam/scenarios/1_Village.cfg:191
 msgid "Oh, no! I hope this blood is not mine!"
-msgstr ""
+msgstr "Oh, no! Spero che questo sangue non sia il mio!"
 
 #. [scenario]: id=2. Cave
 #: The_Final_Exam/scenarios/2_Cave.cfg:5
 msgid "2. Cave"
-msgstr ""
+msgstr "1. Caverna"
 
 #. [part]
 #: The_Final_Exam/scenarios/2_Cave.cfg:26
 msgid ""
 "Orcs in front of the entrance has been killed. Erika must find the book now."
 msgstr ""
+"Gli orchi all'ingresso sono stati uccisi. Ora Erika deve trovare il libro."
 
 #. [side]: type=Troll, description=Nsug
 #: The_Final_Exam/scenarios/2_Cave.cfg:78
 msgid "Nsug"
-msgstr ""
+msgstr "Nsug"
 
 #. [objective]: condition=win
 #: The_Final_Exam/scenarios/2_Cave.cfg:98
 msgid "Find the book"
-msgstr ""
+msgstr "Trova il libro"
 
 #. [message]: speaker=Erika
 #: The_Final_Exam/scenarios/2_Cave.cfg:124
@@ -201,6 +221,8 @@ msgid ""
 "I don't like this place. It's too silent and too dark. But I'm sure that I "
 "will find the book. Careful, warriors, I smell trolls!"
 msgstr ""
+"Non mi piace questo posto. È troppo silenzioso e troppo buio. Ma sono sicura "
+"che qui troverò il libro. Guerrieri, fate attenzione:  sento puzza di troll!"
 
 #. [message]: speaker=unit
 #: The_Final_Exam/scenarios/2_Cave.cfg:139
@@ -210,9 +232,12 @@ msgstr ""
 #. [message]: speaker=unit
 #: The_Final_Exam/scenarios/2_Cave.cfg:171
 msgid "We found 25 gold coins."
-msgstr ""
+msgstr "Abbiamo trovato 25 monete d'oro."
 
 #. [message]: description=Erika
 #: The_Final_Exam/scenarios/2_Cave.cfg:187
 msgid "I found the book. My quest here is over."
-msgstr ""
+msgstr "Ho trovato il libro! La mia missione è completata."
+
+#~ msgid "<192,0,0>"
+#~ msgstr "<192,0,0>"
