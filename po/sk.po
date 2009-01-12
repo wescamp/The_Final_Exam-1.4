@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2009-01-08 21:33+0100\n"
+"POT-Creation-Date: 2009-01-12 22:25+0100\n"
 "PO-Revision-Date: 2008-12-31 21:02+0100\n"
 "Last-Translator: Stanislav Hoferek <shoferek@gmail.com>\n"
 "Language-Team: none\n"
@@ -46,7 +46,8 @@ msgstr ""
 
 #. [campaign]: id=The Final Exam
 #: The_Final_Exam/_main.cfg:28
-msgid "Apprentice"
+#, fuzzy
+msgid "female^Apprentice"
 msgstr "Učnica"
 
 #. [campaign]: id=The Final Exam
@@ -57,8 +58,9 @@ msgstr "Veľmi ľahké"
 
 #. [campaign]: id=The Final Exam
 #: The_Final_Exam/_main.cfg:30
-msgid "Mage"
-msgstr "Mágyňa"
+#, fuzzy
+msgid "female^Mage"
+msgstr "teamname^Erika"
 
 #. [campaign]: id=The Final Exam
 #: The_Final_Exam/_main.cfg:30
@@ -67,8 +69,9 @@ msgstr "Ľahké"
 
 #. [campaign]: id=The Final Exam
 #: The_Final_Exam/_main.cfg:32
-msgid "Archmage"
-msgstr ""
+#, fuzzy
+msgid "female^Archmage"
+msgstr "teamname^Erika"
 
 #. [campaign]: id=The Final Exam
 #: The_Final_Exam/_main.cfg:32
@@ -265,6 +268,9 @@ msgstr "našli sme 25 zlatých mincí."
 #: The_Final_Exam/scenarios/2_Cave.cfg:234
 msgid "I found the book. My quest here is over."
 msgstr "Našla som knihu. Moja úloha sa skončila."
+
+#~ msgid "Mage"
+#~ msgstr "Mágyňa"
 
 #~ msgid "Erika"
 #~ msgstr "Erika"

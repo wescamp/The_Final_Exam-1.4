@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2009-01-08 21:33+0100\n"
+"POT-Creation-Date: 2009-01-12 22:25+0100\n"
 "PO-Revision-Date: 2008-12-31 19:00+0300\n"
 "Last-Translator: Antonio 'Antro' Rosella <arosella@yahoo.com>\n"
 "Language-Team: none\n"
@@ -47,7 +47,8 @@ msgstr ""
 
 #. [campaign]: id=The Final Exam
 #: The_Final_Exam/_main.cfg:28
-msgid "Apprentice"
+#, fuzzy
+msgid "female^Apprentice"
 msgstr "Apprentista"
 
 #. [campaign]: id=The Final Exam
@@ -58,8 +59,9 @@ msgstr "(Facilissimo)"
 
 #. [campaign]: id=The Final Exam
 #: The_Final_Exam/_main.cfg:30
-msgid "Mage"
-msgstr "Mago"
+#, fuzzy
+msgid "female^Mage"
+msgstr "teamname^Erika"
 
 #. [campaign]: id=The Final Exam
 #: The_Final_Exam/_main.cfg:30
@@ -68,8 +70,9 @@ msgstr "(Facile)"
 
 #. [campaign]: id=The Final Exam
 #: The_Final_Exam/_main.cfg:32
-msgid "Archmage"
-msgstr ""
+#, fuzzy
+msgid "female^Archmage"
+msgstr "teamname^Erika"
 
 #. [campaign]: id=The Final Exam
 #: The_Final_Exam/_main.cfg:32
@@ -269,6 +272,9 @@ msgstr "Abbiamo trovato 25 monete d'oro."
 #: The_Final_Exam/scenarios/2_Cave.cfg:234
 msgid "I found the book. My quest here is over."
 msgstr "Ho trovato il libro! La mia missione è completata."
+
+#~ msgid "Mage"
+#~ msgstr "Mago"
 
 #~ msgid "Erika"
 #~ msgstr "Erika"
