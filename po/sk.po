@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2009-01-12 22:25+0100\n"
-"PO-Revision-Date: 2008-12-31 21:02+0100\n"
+"PO-Revision-Date: 2009-01-13 22:58+0100\n"
 "Last-Translator: Stanislav Hoferek <shoferek@gmail.com>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -23,7 +23,6 @@ msgstr "PS"
 
 #. [campaign]: id=The Final Exam
 #: The_Final_Exam/_main.cfg:25
-#, fuzzy
 msgid ""
 "A young mage Erika must find a magic book to become a true mage.\n"
 "\n"
@@ -42,41 +41,37 @@ msgstr ""
 "Táto kampaň je vytvorená na to, aby bola:\n"
 "- ľahko hrateľná\n"
 "- ľahko modifikovateľná\n"
-"- ľahko prekladateľná"
+"- ľahko použiteľná ako učebnica základov WML- ľahko prekladateľná"
 
 #. [campaign]: id=The Final Exam
 #: The_Final_Exam/_main.cfg:28
-#, fuzzy
 msgid "female^Apprentice"
 msgstr "Učnica"
 
 #. [campaign]: id=The Final Exam
 #: The_Final_Exam/_main.cfg:28
-#, fuzzy
 msgid "(Very Easy)"
-msgstr "Veľmi ľahké"
+msgstr "(Veľmi ľahké)"
 
 #. [campaign]: id=The Final Exam
 #: The_Final_Exam/_main.cfg:30
-#, fuzzy
 msgid "female^Mage"
-msgstr "teamname^Erika"
+msgstr "Mágyňa"
 
 #. [campaign]: id=The Final Exam
 #: The_Final_Exam/_main.cfg:30
 msgid "(Easy)"
-msgstr "Ľahké"
+msgstr "(Ľahké)"
 
 #. [campaign]: id=The Final Exam
 #: The_Final_Exam/_main.cfg:32
-#, fuzzy
 msgid "female^Archmage"
-msgstr "teamname^Erika"
+msgstr "Archmágyňa"
 
 #. [campaign]: id=The Final Exam
 #: The_Final_Exam/_main.cfg:32
 msgid "(Medium)"
-msgstr ""
+msgstr "(Stredné)"
 
 #. [about]
 #: The_Final_Exam/_main.cfg:40
@@ -134,21 +129,20 @@ msgstr ""
 #: The_Final_Exam/scenarios/2_Cave.cfg:38
 #: The_Final_Exam/scenarios/1_Village.cfg:47
 msgid "teamname^Erika"
-msgstr "teamname^Erika"
+msgstr "Erika"
 
 #. [side]: type=Mage, description=Erika
 #: The_Final_Exam/scenarios/2_Cave.cfg:45
 #: The_Final_Exam/scenarios/1_Village.cfg:58
-#, fuzzy
 msgid "female^Erika"
-msgstr "teamname^Erika"
+msgstr "Erika"
 
 #. [side]: type=Troll, description=Nsug
 #. [side]: type=Orcish Warrior, description=Nerek
 #: The_Final_Exam/scenarios/2_Cave.cfg:66
 #: The_Final_Exam/scenarios/1_Village.cfg:86
 msgid "teamname^Enemy"
-msgstr "teamname^Enemy"
+msgstr "Nepriateľ"
 
 #. [side]: type=Orcish Warrior, description=Nerek
 #: The_Final_Exam/scenarios/1_Village.cfg:96
@@ -158,7 +152,7 @@ msgstr "Nerek"
 #. [objective]: condition=win
 #: The_Final_Exam/scenarios/1_Village.cfg:109
 msgid "Defeat Nerek"
-msgstr "Porazíš Nerek-a"
+msgstr "Porazíš Nereka"
 
 #. [objective]: condition=lose
 #: The_Final_Exam/scenarios/2_Cave.cfg:98
@@ -175,7 +169,7 @@ msgstr "Vyprší čas"
 #. [unit]: type=Spearman, description=Johnny
 #: The_Final_Exam/scenarios/1_Village.cfg:143
 msgid "Johnny"
-msgstr ""
+msgstr "Jano"
 
 #. [message]: speaker=Erika
 #: The_Final_Exam/scenarios/1_Village.cfg:155
@@ -243,21 +237,22 @@ msgid ""
 "Two heavy infantrymen are close. Maybe for 40 gold they will help me in my "
 "search."
 msgstr ""
+"Dvaja ťažkoodenci sú blízko. Možno by mi za 40 zlatiek pomohli v hľadaní."
 
 #. [option]: speaker=Erika
 #: The_Final_Exam/scenarios/2_Cave.cfg:126
 msgid "Hey you! looking for some gold?"
-msgstr ""
+msgstr "Hej Vy! Čo poviete na pár zlatiek?"
 
 #. [option]: speaker=Erika
 #: The_Final_Exam/scenarios/2_Cave.cfg:149
 msgid "No no no, bad idea."
-msgstr ""
+msgstr "Nie nie nie, zlý nápad."
 
 #. [message]: speaker=unit
 #: The_Final_Exam/scenarios/2_Cave.cfg:172
 msgid "I can't take this book. Only Erika can take it."
-msgstr ""
+msgstr "nemôžem zobrať túto knihu. Iba Erika ju môže zobrať."
 
 #. [message]: speaker=unit
 #: The_Final_Exam/scenarios/2_Cave.cfg:210
